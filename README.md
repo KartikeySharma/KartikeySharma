@@ -1,6 +1,4 @@
-![Hi](https://github.com/KartikeySharma/KartikeySharma/blob/master/hello.gif)
-
-
+<img src="https://github.com/KartikeySharma/KartikeySharma/blob/master/hello.gif" width="80" height="80" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
