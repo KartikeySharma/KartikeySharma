@@ -3,7 +3,7 @@
 ## Hi there 👋 Kartikey Here..
 
 - 🔭 I’m currently working on developing ML projects
-- 🌱 I’m currently learning BSTs
+- 🌱 I’m currently learning EVERYTHING
 - 👯 I’m looking to collaborate on Android and Kotlin
 - 💬 Ask me about <b> Data Science, ML, DSA</b>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kartikey-sharma-9bb073108/">LinkedIn</a>
