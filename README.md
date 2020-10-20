@@ -11,4 +11,4 @@
 - ⚡ Fun fact: Mohammed is the most common first name in the world, and Lee the most common surname. Want me to guess a name? :p
 
 
-[![Kartikey's github stats](https://github-readme-stats.vercel.app/api?username=KartikeySharma)](https://github.com/anuraghazra/github-readme-stats)
+[![Kartikey's Github Stats](https://github-readme-stats.vercel.app/api?username=KartikeySharma)](https://github.com/anuraghazra/github-readme-stats)
