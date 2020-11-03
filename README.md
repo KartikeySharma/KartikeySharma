@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on (Shhh! :p)
 - 🌱 I’m currently know  nothing.
 - 👯 I’m looking to collaborate on Android.
-- 💬 Ask me about <b> Idk anything </b>
+- 💬 Ask me about <b> nothing </b>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kartikey-sharma-9bb073108/">LinkedIn</a>
 - 😄 Pronouns: He/KTK/Him
 - ⚡ Fun fact: Mohammed is the most common first name in the world, and Lee the most common surname. Want me to guess a name? :p
