@@ -3,7 +3,7 @@
 ## Hi there 👋 Kartikey Here..
 
 - 🔭 I’m currently working on (Shhh! :p)
-- 🌱 I’m currently know  nothing.
+- 🌱 I currently know nothing.
 - 👯 I’m looking to collaborate on Android.
 - 💬 Ask me about <b> nothing </b>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kartikey-sharma-9bb073108/">LinkedIn</a>
