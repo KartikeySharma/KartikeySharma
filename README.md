@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kartikey-sharma-9bb073108/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-logo-hd-png-3.png" alt="https://www.linkedin.com/in/kartikey-sharma-9bb073108/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kartikey-sharma-9bb073108/" target="blank"><img align="center" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-Squircle-Dark.png" alt="https://www.linkedin.com/in/kartikey-sharma-9bb073108/" height="30" width="40" /></a>
 <a href="https://instagram.com/k.a.r.t.i.k.e.y" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="k.a.r.t.i.k.e.y" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kartikeysm2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kartikeysm2001" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kartikeysm2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kartikeysm2001" height="30" width="40" /></a>
