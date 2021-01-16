@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DSA, Kotlin, CP**
 
-- 📫 How to reach me **https://www.linkedin.com/in/kartikey-sharma-9bb073108/**
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/kartikey-sharma-9bb073108/">LinkedIn</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
