@@ -8,11 +8,8 @@
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="300px" />
 
 - 🌱 I’m currently learning **MVVM and Android Jetpack**
-
 - 👯 I’m looking to collaborate on **Android**
-
 - 🤝 I’m looking for help with **Web Development and Libaries**
-
 - 💬 Ask me about **DSA, Kotlin, CP**
 
 
