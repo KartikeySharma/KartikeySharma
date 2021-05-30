@@ -12,6 +12,12 @@
 - 🤝 I’m looking for help with **Web Development and Libaries**
 - 💬 Ask me about **DSA, Kotlin, CP**
 
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikeysharma&show_icons=true&locale=en&layout=compact&theme=dark" alt="kartikeysharma" /></p> -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KartikeySharma&show_icons=true&theme=dark" alt="kartikeysharma" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeySharma&layout=compact&show_icons=true&theme=dark" align="center"/>
+
 
 </br>
 </br>
@@ -30,8 +36,3 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="40" height="40"/> 
 </p>
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikeysharma&show_icons=true&locale=en&layout=compact&theme=dark" alt="kartikeysharma" /></p> -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KartikeySharma&show_icons=true&theme=dark" alt="kartikeysharma" /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeySharma&layout=compact&show_icons=true&theme=dark" align="center"/>
