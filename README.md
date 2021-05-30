@@ -12,7 +12,8 @@
 - 🤝 I’m looking for help with **Web Development and Libaries**
 
 - 💬 Ask me about **DSA, Kotlin, CP**
-
+- 
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 <br>
 <br>
 <p align="center">
