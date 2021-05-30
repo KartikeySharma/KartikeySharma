@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeysharma&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeysharma" /> </p>
 
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
+
 - 🌱 I’m currently learning **MVVM and Android Jetpack**
 
 - 👯 I’m looking to collaborate on **Android**
@@ -12,8 +14,8 @@
 - 🤝 I’m looking for help with **Web Development and Libaries**
 
 - 💬 Ask me about **DSA, Kotlin, CP**
-- 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+
+
 <br>
 <br>
 <p align="center">
