@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartikey</h1>
 <h3 align="center">An Android Development Enthusiast and Competitive Programmer</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/dheerajkotwani-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/kartikey-sharma-9bb073108/)
+[![Linkedin Badge](https://img.shields.io/badge/kartikeysharma-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/kartikey-sharma-9bb073108/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeysharma&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeysharma" /> </p>
 
