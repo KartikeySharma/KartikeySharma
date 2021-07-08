@@ -11,7 +11,8 @@
 - 👯 I’m looking to collaborate on **Android**
 - 🤝 I’m looking for help with **Web Development and Libaries**
 - 💬 Ask me about **DSA, Kotlin, CP**
-- 👯 I’m looking to collaborate on **Android**
+- 🤔 Fun Fact: Nietzsche's take on nihilism keeps me intrigued
+- ⚡ In my free time, you'll find me listening to music or watching The Office or The Arrow
 - 🤝 I’m looking for help with **Web Development and Libaries**
 - 💬 Ask me about **DSA, Kotlin, CP**
 
