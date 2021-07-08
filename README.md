@@ -11,6 +11,9 @@
 - 👯 I’m looking to collaborate on **Android**
 - 🤝 I’m looking for help with **Web Development and Libaries**
 - 💬 Ask me about **DSA, Kotlin, CP**
+- - 👯 I’m looking to collaborate on **Android**
+- 🤝 I’m looking for help with **Web Development and Libaries**
+- 💬 Ask me about **DSA, Kotlin, CP**
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikeysharma&show_icons=true&locale=en&layout=compact&theme=dark" alt="kartikeysharma" /></p> -->
