@@ -36,5 +36,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeySharma&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeySharma&theme=dark&layout=compact"/>
 </p>
