@@ -38,7 +38,8 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=KartikeySharma&&show_icons=true&&theme=dark&&hide_border=false&&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikeySharma&&hide_border=false&&theme=dark&&show_icons=true"/>|
 |---|---|
 
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeySharma&theme=dark&layout=compact"/>
 </p>
+-->
