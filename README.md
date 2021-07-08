@@ -15,8 +15,6 @@
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikeysharma&show_icons=true&locale=en&layout=compact&theme=dark" alt="kartikeysharma" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KartikeySharma&show_icons=true&theme=dark" alt="kartikeysharma" /></p>
-
 
 </br>
 </br>
