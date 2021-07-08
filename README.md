@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/>
 </p>
 
-|<img src="https://github-readme-stats.vercel.app/api?username=KartikeySharma&&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikeySharma&&hide_border=false&&show_icons=true"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=KartikeySharma&&show_icons=true&&theme=dark&&hide_border=false&&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikeySharma&&hide_border=false&&theme=dark&&show_icons=true"/>|
 |---|---|
 
 
