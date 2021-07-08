@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **Android**
 - 🤝 I’m looking for help with **Web Development and Libaries**
 - 💬 Ask me about **DSA, Kotlin, CP**
-- - 👯 I’m looking to collaborate on **Android**
+- 👯 I’m looking to collaborate on **Android**
 - 🤝 I’m looking for help with **Web Development and Libaries**
 - 💬 Ask me about **DSA, Kotlin, CP**
 
@@ -20,7 +20,7 @@
 <br>
 <br>
 <br>
-<h3> Tech Stack </h3>
+<h3 align="center"> Tech Stack </h3>
 </br>
 </br>
 <p align="center">
