@@ -7,12 +7,12 @@
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="300px" />
 
-- 🌱 I’m currently learning **MVVM and Android Jetpack**
-- 👯 I’m looking to collaborate on **Android**
-- 🤝 I’m looking for help with **Web Development and Libaries**
-- 💬 Ask me about **DSA, Kotlin, CP**
+- 🌱 I’m currently an SDE Intern at **Blinkit**
+- 👯 I’m looking to collaborate on **Flask and Backend projects**
+- 🤝 I’m looking for help with **Backend and WebD**
+- 💬 Ask me about **DSA, Native Android, CP**
 - 🤔 Fun Fact: Nietzsche's take on nihilism intrigues me
-- ⚡ In my free time, you'll find me listening to music
+- ⚡ In my free time, you'll find me listening to Juice Wrld.
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikeysharma&show_icons=true&locale=en&layout=compact&theme=dark" alt="kartikeysharma" /></p> -->
