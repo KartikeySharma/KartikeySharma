@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartikey</h1>
-<h3 align="center">An Android Development Enthusiast and Competitive Programmer</h3>
+<h3 align="center">An Android Developer and Competitive Programmer</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/kartikeysharma-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/kartikey-sharma-9bb073108/)
 
