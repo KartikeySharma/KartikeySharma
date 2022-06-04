@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeysharma&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeysharma" /> </p>
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="300px" />
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="20px" />
 
 - 🌱 I’m currently a SDE Intern at **Blinkit**
 - 👯 I’m looking to collaborate on **Flask and Backend projects**
