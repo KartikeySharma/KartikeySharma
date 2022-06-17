@@ -7,7 +7,7 @@
 
 <!-- <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="20px" /> -->
 
-- 🌱 I’m currently a SDE Intern at **Blinkit**
+- 🌱 I’m currently a SDE Intern at **<insert>**
 - 👯 I’m looking to collaborate on **Flask and Backend projects**
 - 🤝 I’m looking for help with **Backend and WebD**
 - 💬 Ask me about **DSA, Native Android, CP**
