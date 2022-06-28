@@ -9,7 +9,7 @@
 - 👨‍💻 I’m currently working on Android Development technologies like Kotlin, Android Jetpack etc.
 - 📚 I’m currently learning everything about Backend development 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: INietzsche's take on nihilism intrigues me
+- ⚡ Fun fact: Nietzsche's take on nihilism intrigues me
 ---
 
 ### Languages 🛠 
