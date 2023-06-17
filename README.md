@@ -42,7 +42,7 @@
 ![Banner](https://github.com/KartikeySharma/Vaibhav2002/assets/36632816/bc743073-7d55-44cc-bcc6-76cdd978d729)
 
 
-<h1 align="center">Hello There! I'm <a href='https://kartikeysharma.github.io/' target='_blank'>Kartikey Sharma</a> </h1>
+<h1 align="center">Hello There! I'm <a href='https://kartikeysharma.github.io/' target="_blank">Kartikey Sharma</a> </h1>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/kartikeysm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikeysharma" height="30" width="40" /></a>
