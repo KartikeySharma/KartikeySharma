@@ -58,7 +58,7 @@
 <br>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science student!  
+## I'm an Android enthusiast and a student!  
 
 - 👨‍💻 I’m currently working on Android and Backend Development.
 - 📚 I’m delving into the world of web development using JavaScript.
