@@ -39,7 +39,8 @@
 
 -->
 
-![Banner](https://github.com/KartikeySharma/Vaibhav2002/assets/36632816/bc743073-7d55-44cc-bcc6-76cdd978d729)
+![Banner](https://github.com/KartikeySharma/KartikeySharma/assets/36632816/3af92a71-055a-4200-96e9-75063b99ac33)
+
 
 
 <h1 align="center">Hello There! I'm <a href='https://kartikeysharma.github.io/' target="_blank">Kartikey Sharma</a> </h1>
